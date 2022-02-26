@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation to represse all piracies and depredations vpon the sea</title>
+            <title>Proclamations.1603-09-30</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73958</idno>
+            <idno type="STC">STC 8334</idno>
+            <idno type="STC">ESTC S123936</idno>
+            <idno type="EEBO-CITATION">99898323</idno>
+            <idno type="PROQUEST">99898323</idno>
+            <idno type="VID">173538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2062:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation to represse all piracies and depredations vpon the sea</title>
+                  <title>Proclamations.1603-09-30</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>anno Dom. 1603]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Giuen at his Maiesties citie of Winchester the xxx. day of September 1603. in the first yeere of his Highnes reigne of England, France and Ireland, and of Scotland the seuen and thirtieth.</note>
+                  <note>Arms 8; Steele notation: ma- lars 2) any to.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maritime law --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:173538:1" rendition="simple:additions"/>
+            <head>¶ By the King. <g ref="char:leaf">❧</g> A Proclamation to repreſſe all Piracies and Depre<g ref="char:EOLhyphen"/>dations vpon the Sea.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings MAIESTIE being certeinly enformed through the</hi> ma<g ref="char:EOLhyphen"/>nifold and dayly complaints made to his Highneſſe, aſwell by his owne Subiects as others, of the continuall Depredations, and Piracies com<g ref="char:EOLhyphen"/>mitted on the Seas by certaine lewd and ill diſpoſed perſons; and finding that the ordinary proceedings held of late times for the ſuppreſſing of theſe enormities and offences, haue wrought leſſe reformation then was ex<g ref="char:EOLhyphen"/>pected: In his Princely care to preſerue Iuſtice, as one of the maine pil<g ref="char:EOLhyphen"/>lars of his Eſtate, and for the ſpeedier ſuppreſſing of all ſuch Piracies and Depredacious crimes, moſt hatefull to his minde, and ſcandalous to his peaceable gouernment, and for the better continuance of Amitie with all other Princes and States; Hath with the aduiſe of his Priuie Counſell, for the ſpeedy preuention or ſeuere puniſhment hereafter of ſuch fowle crimes and Piracies, Set downe certaine Articles hereunto annexed, which his Highneſſe commandeth all his Officers whom it may concerne, of what degree ſoeuer, to ſee duely executed, Wherein if any maner of perſon ſhalbe found culpable or wilfully negligent, contemptuous, or diſobedient, His Maieſtie de<g ref="char:EOLhyphen"/>clareth hereby, that puniſhment ſhalbe inflicted vpon him or them with ſuch ſeueritie, as the example thereof ſhall terrifie all others from committing any ſo odious crimes, or contemptuous offences.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Irſt, that no man of Warre be furniſhed or ſet out to Sea by any of his Maieſties</hi> Sub<g ref="char:EOLhyphen"/>iects, vnder paine of Death and confiſcation of Lands and Goods, not onely to the Cap<g ref="char:EOLhyphen"/>taines and Mariners, but alſo to the Owners and Victuallers, if the Company of the ſaide Ship ſhall commit any Piracie, Depredation or murther at the Sea, vpon any of his Maieſties Friends.</p>
+            <p>Item, that if any perſon whatſoeuer ſhall vpon the Seas take any Ship that doeth belong to any of his Maieſties Friends and Allies, or to any of their Subiects, or ſhall take out of it by force any Goods of what nature or qualitie ſoeuer, he or they ſo offending ſhall ſuffer Death, with confiſcation of Lands and Goods, according to the Law in that caſe prouided.</p>
+            <p>Item, that all Admirall cauſes (except the cauſes now depending before the Commiſſioners for cauſes of Depredations) ſhalbe ſummarily heard by the Iudge of the high Court of the Admiraltie, without admitting any vnneceſſary delay.</p>
+            <p>Item, that no appeale from him be admitted to the Defendant or Defendants in cauſes of Depre<g ref="char:EOLhyphen"/>dation, either againſt the Offenders, or their Acceſſaries, before or after the offence committed, or thoſe in whoſe poſſeſſion the Goods ſpoiled are found, Vnleſſe firſt by way of prouiſion, the ſumme adiudged be payd to the Plaintife vpon Sureties to repay it, if the Sentence ſhalbe reuerſed.</p>
+            <p>Item, that no Prohibition in ſuch caſes of Spoile and their acceſſaries or dependances be granted hereafter.</p>
+            <pb facs="tcp:173538:2"/>
+            <pb facs="tcp:173538:3" rendition="simple:additions"/>
+            <p>Item, that no Ship or Goods taken from any his Maieſties friends, ſhall be deliuered by any other order then vpon proofe made in the ſayd Court of the Admiralty, before the ſayd Iudge or his Deputie, to the end that a Record may be kept of all ſuch Reſtitutions made to ſtrangers, to ſerue when occaſion ſhall require.</p>
+            <p>Item, that euery Viceadmirall is enioyned by this Proclamation (whereof hee ſhall take notice at his perill) to certifie into the ſaid Court of the Admiralty euery quarter of the yeere what man of Warre hath gone to the Sea, or returned home within that time, with any goods taken at Sea, or the procedue thereof, vpon paine to loſe to his Maieſtie (by way of Fine) for euery ſuch default fortie pounds of currant money of England, to be anſwered into his Maieſties Receipt of the Exchequer, by Certificate from the ſaid Iudge of the Admiralty vnder the great Seale of that Office, to bee di<g ref="char:EOLhyphen"/>rected to the Lord Treaſurer and the Barons of the Exchequer.</p>
+            <p>Item, that al the Kings Subiects ſhal forbeare from ayding or receiuing of any Pirat or Sea-Ro<g ref="char:EOLhyphen"/>uer, or any perſon not being a knowen Merchant, by contracting, buying, ſelling or exchanging with them, or by victualling of them or any of their company, whereby they or any of them ſhalbe the more enabled to goe or returne to the Seas to commit any Piracie or diſorder, vpon paine for ſo doing to be puniſhed preſently, as the principal offendors and Pirats ought to be.</p>
+            <p>Item, that the Viceadmirals, Cuſtomers, and the other Officers of the Ports, ſhal not ſuffer any Ship to goe to the Seas before ſuch time as they reſpectiuely in their ſeuerall Ports haue duely ſear<g ref="char:EOLhyphen"/>ched and viſited the ſame, to the intent to ſtay ſuch perſons as apparantly ſhall bee furniſhed for the Warres, and not for Merchandize or Fiſhing. And if there ſhall be any maner of ſuſpicion that the ſayd perſon, though he ſhall pretend to trade for Merchandize or Fiſhing, hath, or may haue an in<g ref="char:EOLhyphen"/>tent by his prouiſions or furniture, otherwiſe then to vſe the trade of Merchandize or Fiſhing, that in ſuch caſe of ſuſpicion the Officers of the Ports ſhall ſtay, and in no wiſe ſuffer the ſame to paſſe to the Seas without good bonds by ſufficient ſureties firſt had, to vſe nothing but a lawfull trade of Mer<g ref="char:EOLhyphen"/>chandize or Fiſhing. And if the ſayd Officers ſhall ſuffer any perſon otherwiſe to repayre to the Seas then aboue is mentioned, they ſhall not onely anſwere for any Piracies which any ſuch perſon ſhall chance hereafter to doe vpon the Seas, but ſhall ſuffer impriſonment vntill the offendors may be apprehended, if they ſhall be liuing. And generally his Maieſtie declareth and denounceth all ſuch Pirats and Rouers vpon the Seas to be out of his Maieſties Protection, and lawfully to bee by any perſon taken, puniſhed, and ſuppreſſed with extremitie.</p>
+            <p>And whereas diuers great and enormous ſpoyles and Piracies haue been of late time committed within the Straits of <hi>Gyblaltar</hi> by Captaine <hi>Thomas Tomkins</hi> Gentleman, <hi>Edmond Bonham, Walter Ianuerin,</hi> Mariners, and diuers other Engliſh Pirats, and the Goods, Moneyes and Merchandizes brought into England by them, haue bene ſcattered, ſold, and diſpoſed of moſt lewdly and prodigally, by the means of their Receiuers, Comforters and Abettors, to the exceeding preiudice of his Maieſties good friends the <hi>Venetians,</hi> whom they haue robbed, and to the great diſpleaſure of God, and diſho<g ref="char:EOLhyphen"/>nour of this State: His Maieſtie doth expreſly commaund all Lieutenants, Deputy Lieutenants, Admirals, Viceadmirals and their Deputies, and all other Officers of the Admiralty, and all Iuſti<g ref="char:EOLhyphen"/>ces of the Peace, Maiors, Shiriffes, Bailiffes, Conſtables, and all other his Officers and Miniſters whatſoeuer, to vſe all care and diligence in the inquiring, ſearching for, and apprehending of all ſuch Pirats, their Receiuers, Comforters, and Abettors. And if they ſhall by their trauailes and cares finde any of them, to ſend them preſently vnder ſafe cuſtodie to the common Gaoles of Hampſhire or Dorſetſhire, there to remaine without Bayle or Mainpriſe, till the Lord high Admirall of England or his Lieutenant the Iudge of the high Court of the Admiralty ſhall diſpoſe of them according to the Lawes in that caſe prouided.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at his Maieſties Citie of Wincheſter</hi> 
+                  <date>
+                     <hi>the xxx. day of September <hi>1603.</hi> in the first yeere of his Highnes Reigne of England, France and Ireland, and of Scotland the ſeuen and thirtieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt excellent Maieſtie. ANNO DOM. 1603.</p>
+            <pb facs="tcp:173538:4" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
